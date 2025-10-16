@@ -4,4 +4,4 @@ I had the problem that i wanted to try out new code, while simultaneously wantin
 The reason i started assembly was that i wanted to get to know Assembly to further understand the common principles behind coding languages.
 
 ## learning
-- Even a simple BIOS handles pretty much all of the basic UI, for example keyboard inputs etc. using Interrupt Codes
+- Even a simple BIOS handles pretty much all of the basic IO, for example keyboard inputs etc. using Interrupt Codes
